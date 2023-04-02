@@ -1,4 +1,5 @@
-# Circle Attention: Forecasting network traffic by learning interpretable spatial relationships from intersecting circles
+# Circle Attention
+Forecasting network traffic by learning interpretable spatial relationships from intersecting circles.
 
 ## Code
 
